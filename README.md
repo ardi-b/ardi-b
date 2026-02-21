@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ardilas Baidowi</h1>
-<h3 align="center">Passionate to learn everything. My nationality is Indonesian</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ardi-b&label=Profile%20views&color=0e75b6&style=flat" alt="ardi-b" /> </p>
 
